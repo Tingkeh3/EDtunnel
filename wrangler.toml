@@ -1,35 +1,35 @@
-name = "ind5"
+name = "ind6"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 
 [[routes]]
-pattern = "ind5.tingkeh.us.kg"
+pattern = "ind6.tingkeh.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "zaintest.vuclip.com.ind5.tingkeh.us.kg"
+pattern = "zaintest.vuclip.com.ind6.tingkeh.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "investors.spotify.com.ind5.tingkeh.us.kg"
+pattern = "investors.spotify.com.ind6.tingkeh.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "quiz.int.vidio.com.ind5.tingkeh.us.kg"
+pattern = "quiz.int.vidio.com.ind6.tingkeh.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "investor.fb.com.ind5.tingkeh.us.kg"
+pattern = "investor.fb.com.ind6.tingkeh.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "ruangguru.com.ind5.tingkeh.us.kg"
+pattern = "ruangguru.com.ind6.tingkeh.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "graph.instagram.com.ind5.tingkeh.us.kg"
+pattern = "graph.instagram.com.ind6.tingkeh.us.kg"
 custom_domain = true
 
 
 
 [vars]
-PROXYIP = "103.186.1.209:2053"
+PROXYIP = "103.6.207.108:8080"
 UUID = "a2268dff-6dfa-4fb8-8a4c-91011b9034b9"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
