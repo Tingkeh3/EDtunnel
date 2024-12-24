@@ -5,25 +5,25 @@ compatibility_date = "2023-05-26"
 workers_dev = true
 
 [[routes]]
-pattern = "sg6.tingkeh.us.kg"
+pattern = "sg6.tingkehh.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "zaintest.vuclip.com.sg6.tingkeh.us.kg"
+pattern = "zaintest.vuclip.com.sg6.tingkehh.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "investors.spotify.com.sg6.tingkeh.us.kg"
+pattern = "investors.spotify.com.sg6.tingkehh.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "quiz.int.vidio.com.sg6.tingkeh.us.kg"
+pattern = "quiz.int.vidio.com.sg6.tingkehh.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "investor.fb.com.sg6.tingkeh.us.kg"
+pattern = "investor.fb.com.sg6.tingkehh.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "ruangguru.com.sg6.tingkeh.us.kg"
+pattern = "ruangguru.com.sg6.tingkehh.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "graph.instagram.com.sg6.tingkeh.us.kg"
+pattern = "graph.instagram.com.sg6.tingkehh.us.kg"
 custom_domain = true
 
 
