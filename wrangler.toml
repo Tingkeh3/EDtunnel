@@ -4,6 +4,30 @@ compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 
+[[routes]]
+pattern = "ind1.tingkeh.us.kg"
+custom_domain = true
+[[routes]]
+pattern = "zaintest.vuclip.com.ind1.tingkeh.us.kg"
+custom_domain = true
+[[routes]]
+pattern = "investors.spotify.com.ind1.tingkeh.us.kg"
+custom_domain = true
+[[routes]]
+pattern = "quiz.int.vidio.com.ind1.tingkeh.us.kg"
+custom_domain = true
+[[routes]]
+pattern = "investor.fb.com.ind1.tingkeh.us.kg"
+custom_domain = true
+[[routes]]
+pattern = "ruangguru.com.ind1.tingkeh.us.kg"
+custom_domain = true
+[[routes]]
+pattern = "graph.instagram.com.ind1.tingkeh.us.kg"
+custom_domain = true
+
+
+
 [vars]
 PROXYIP = "206.237.98.76:587"
 UUID = "a2268dff-6dfa-4fb8-8a4c-91011b9034b9"
